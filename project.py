@@ -9,13 +9,13 @@ def kleisimo:
     f2.close()
 
 class Lessons:
-    def _init_(ID, Date, Classroom, Semester, Prof, Nsup):
-        self.ID=
-        self.Date=
-        self.Classroom=
-        self.Semester=
-        Self.Prof=
-        self.Nsup=
+    def _init_(IDless, Date, Classroom, Semester, Prof, No_sup):
+        self.IDless=IDless
+        self.Date=Date
+        self.Classroom=Classroom
+        self.Semester=Semester
+        Self.Prof=Prof
+        self.No_sup=Nosup
 
 class Supervisors:
     def _init_(IDsup, Name, Email, Nsupe, Restrictions):
